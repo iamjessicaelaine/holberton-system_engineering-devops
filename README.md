@@ -1,0 +1,1 @@
+This is the repository where I will store the answers and scripts related to tasks in Project 0x00. Shell, basics.
