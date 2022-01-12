@@ -1,0 +1,1 @@
+This is where I will describe what each script for the 0x02 project is doing.
