@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltcx | head
+ls -ltx | head
