@@ -1,0 +1,1 @@
+This directory contains my responses for Project 0x04. Loops, conditions and parsing at Holberton School. 
