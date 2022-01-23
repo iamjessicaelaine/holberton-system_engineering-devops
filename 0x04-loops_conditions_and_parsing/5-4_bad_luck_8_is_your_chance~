@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# script that loops from 1to10, displaying bad luck the 4th time, good luck the 8th time and Best School all other times
+x=1
+while [ $x -le 10 ]
+do
+(( x++ ))
+if [ $x -eq 4 ]; then
+echo "bad luck"
+elif [ $x -eq 8 ]; then
+echo "good luck"
+else
+echo "Best School"
+fi
+done
