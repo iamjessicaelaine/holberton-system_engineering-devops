@@ -1,0 +1,1 @@
+This is the directory for project 0x05 over processes and signals in bash for my assignment at holberton school.
