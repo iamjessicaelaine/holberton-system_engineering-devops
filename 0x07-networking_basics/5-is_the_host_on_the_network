@@ -1,11 +1,6 @@
 #!/usr/bin/env bash
 # pings an IP address passed as an argument to test online connectivity
-<<<<<<< HEAD
 if [ "$#" -eq 0 ]; then
-=======
-if [ "$1" == "" ];
-then
->>>>>>> 298fc56b4daccc846f5b419a5990c37124076d99
     echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
 else
     ping -c 5 "$1"
